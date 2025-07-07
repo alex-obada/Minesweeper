@@ -1,6 +1,6 @@
 # Minesweeper
 
-A replica resembling the legendary Minesweeper game built with Java AWT. There are 40 mines in a 16x16 field. Can you uncover all of them without blowing up?
+A replica resembling the legendary Minesweeper game built with Java Swing. There are 40 mines in a 16x16 field. Can you uncover all of them without blowing up?
 
 ![Gameplay Screenshot](images/playing.png) 
 ![Game Over Screenshot](images/game-over.png)
